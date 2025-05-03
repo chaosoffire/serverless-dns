@@ -29,7 +29,7 @@ LOG_LEVEL = "debug"
 WORKER_ENV = "development"
 CLOUD_PLATFORM = "cloudflare"
 AUTO_RENEW_BLOCKLISTS_OLDER_THAN = "42" # weeks
-
+ACCESS_KEYS = "dns.888123456.xyz|dd17a033c23ba0b76c0e91ba05efa67a867affcc9865952d13cd7b6618486f79"
 ##################
 #------PROD------#
 ##################
